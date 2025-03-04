@@ -1,0 +1,8 @@
+framework module "code_assign_util" {
+    umbrella header "code_assign_util.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}

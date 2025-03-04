@@ -1,0 +1,16 @@
+# ninja log v5
+2	73	0	/Users/xianglong.liang/Work/workspace/UploaderDemo/android/app/.cxx/Debug/93e2m125/arm64-v8a/CMakeFiles/cmake.verify_globs	3fd5eefed706a352
+5	2225	1741042015744174562	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/States.cpp.o	e12013573fc8eed3
+2	2554	1741042016071944456	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/EventEmitters.cpp.o	b1506475de9d283d
+2	2838	1741042016358169381	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/Props.cpp.o	c20013851149e1ae
+5	2858	1741042016373675015	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/ShadowNodes.cpp.o	dfa0a93c11bb75a3
+3	2865	1741042016384030549	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/RNImagePickerSpecJSI-generated.cpp.o	28deba2727ae1c06
+1	2960	1741042016479878442	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/RNImagePickerSpec-generated.cpp.o	fb356a59f15e75ae
+0	2986	1741042016502435140	CMakeFiles/appmodules.dir/Users/xianglong.liang/Work/workspace/UploaderDemo/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	cbd8db5aff264f2d
+1	3005	1741042016525025546	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/ComponentDescriptors.cpp.o	4fae58f9cd6b1b1d
+1	3117	1741042016636928866	CMakeFiles/appmodules.dir/OnLoad.cpp.o	36776b49e6d28474
+3117	3244	1741042016764821738	/Users/xianglong.liang/Work/workspace/UploaderDemo/android/app/build/intermediates/cxx/Debug/93e2m125/obj/arm64-v8a/libappmodules.so	30fe959522e3d13c
+0	31	0	/Users/xianglong.liang/Work/workspace/UploaderDemo/android/app/.cxx/Debug/93e2m125/arm64-v8a/CMakeFiles/cmake.verify_globs	3fd5eefed706a352
+1	20	0	/Users/xianglong.liang/Work/workspace/UploaderDemo/android/app/.cxx/Debug/93e2m125/arm64-v8a/CMakeFiles/cmake.verify_globs	3fd5eefed706a352
+6	29	0	/Users/xianglong.liang/Work/workspace/UploaderDemo/android/app/.cxx/Debug/93e2m125/arm64-v8a/CMakeFiles/cmake.verify_globs	3fd5eefed706a352
+3	70	0	/Users/xianglong.liang/Work/workspace/UploaderDemo/android/app/.cxx/Debug/93e2m125/arm64-v8a/CMakeFiles/cmake.verify_globs	3fd5eefed706a352

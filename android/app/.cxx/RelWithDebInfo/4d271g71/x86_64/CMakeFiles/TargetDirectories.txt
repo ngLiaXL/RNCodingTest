@@ -1,0 +1,6 @@
+/Users/xianglong.liang/Work/workspace/UploaderDemo/android/app/.cxx/RelWithDebInfo/4d271g71/x86_64/CMakeFiles/appmodules.dir
+/Users/xianglong.liang/Work/workspace/UploaderDemo/android/app/.cxx/RelWithDebInfo/4d271g71/x86_64/CMakeFiles/edit_cache.dir
+/Users/xianglong.liang/Work/workspace/UploaderDemo/android/app/.cxx/RelWithDebInfo/4d271g71/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/xianglong.liang/Work/workspace/UploaderDemo/android/app/.cxx/RelWithDebInfo/4d271g71/x86_64/RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir
+/Users/xianglong.liang/Work/workspace/UploaderDemo/android/app/.cxx/RelWithDebInfo/4d271g71/x86_64/RNImagePickerSpec_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/xianglong.liang/Work/workspace/UploaderDemo/android/app/.cxx/RelWithDebInfo/4d271g71/x86_64/RNImagePickerSpec_autolinked_build/CMakeFiles/rebuild_cache.dir

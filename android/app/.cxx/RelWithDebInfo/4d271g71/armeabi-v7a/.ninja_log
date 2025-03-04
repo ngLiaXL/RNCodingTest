@@ -1,0 +1,12 @@
+# ninja log v5
+0	7	0	/Users/xianglong.liang/Work/workspace/UploaderDemo/android/app/.cxx/RelWithDebInfo/4d271g71/armeabi-v7a/CMakeFiles/cmake.verify_globs	6c798d2d293605f5
+5	2078	1741043889279569203	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/States.cpp.o	9a2265700f79eea6
+1	2230	1741043889434881699	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/EventEmitters.cpp.o	4b5bf226da6bfef7
+1	2628	1741043889832395412	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/Props.cpp.o	34d9b4039c95a3db
+3	2694	1741043889898042708	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/ShadowNodes.cpp.o	225d7bbf3e567911
+0	2743	1741043889946131224	CMakeFiles/appmodules.dir/Users/xianglong.liang/Work/workspace/UploaderDemo/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	bd5c801d8a1d9cc1
+1	2743	1741043889945133176	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/RNImagePickerSpecJSI-generated.cpp.o	68c937e1cd68b8ed
+1	2766	1741043889971067842	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/ComponentDescriptors.cpp.o	2b425807079fb727
+1	2835	1741043890039669240	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/RNImagePickerSpec-generated.cpp.o	387a986ad8688243
+0	2886	1741043890091076778	CMakeFiles/appmodules.dir/OnLoad.cpp.o	3305393eec062b69
+2886	2919	1741043890126551588	/Users/xianglong.liang/Work/workspace/UploaderDemo/android/app/build/intermediates/cxx/RelWithDebInfo/4d271g71/obj/armeabi-v7a/libappmodules.so	17d98a7b8018cb59
